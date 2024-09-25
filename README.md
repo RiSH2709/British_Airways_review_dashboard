@@ -28,3 +28,6 @@ This project presents an **interactive Tableau dashboard** designed to analyze r
 
 ## Conclusion
 This project highlights the importance of review analysis in the airline industry, offering tools to better understand customer experiences and drive improvements. 
+
+
+![British Airways Reviews dash](https://github.com/user-attachments/assets/5f848965-2743-4325-ad6e-cd6217369d98)
